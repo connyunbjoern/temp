@@ -1,7 +1,7 @@
 ---
 title: Be part of it
 keywords: sample homepage
-tags: [getting_to_know_connyun]
+tags: [getting_to_know]
 sidebar: mydoc_sidebar
 permalink: index.html
 summary: 
